@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "example 1",
+      "body": "content"
+    },
+    {
+      "id": "2",
+      "title": "example 1",
+      "body": "content"
+    },
+    {
+      "id": "3",
+      "title": "example 3",
+      "body": "content"
+    },
+    {
+      "id": "4",
+      "title": "example 4",
+      "body": "form POst man"
+    },
+    {
+      "title": "Safi",
+      "body": "The new file created from the admin app ",
+      "id": "5CYedec"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Safi",
+      "number": "7868920541",
+      "email": "safiullathif65@gmial.com"
+    },
+    {
+      "id": "2",
+      "name": "Safi",
+      "number": "786892009",
+      "email": "safiullathif65@gmial.com"
+    },
+    {
+      "id": "3",
+      "name": "Safi",
+      "number": "8346892051",
+      "email": "safiullathif65@gmial.com"
+    }
+  ]
+}
